@@ -1,0 +1,5 @@
+peptide,score,smiles
+ACEF,+++,C[C@H](N)C(=O)N[C@@H](CS)C(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](Cc1ccccc1)C(=O)O
+TCTPW,+++,C[C@@H](O)[C@H](N)C(=O)N[C@@H](CS)C(=O)N[C@H](C(=O)N1CCC[C@H]1C(=O)N[C@@H](Cc1c[nH]c2ccccc12)C(=O)O)[C@@H](C)O
+AGCF,+++,C[C@H](N)C(=O)NCC(=O)N[C@@H](CS)C(=O)N[C@@H](Cc1ccccc1)C(=O)O
+APDCR,+++,C[C@H](N)C(=O)N1CCC[C@H]1C(=O)N[C@@H](CC(=O)O)C(=O)N[C@@H](CS)C(=O)N[C@@H](CCCNC(=N)N)C(=O)O
